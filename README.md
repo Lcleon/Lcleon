@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Leonardo Lobo(Lio)
-- 👀 I’m interested in C#, Javascript e Python
+- 👀 I’m interested in HTML ,CSS ,React ,Node ,PHP ,C# ,Javascript e Python, Assembly
 - 🌱 I’m currently l cursando Análise de sistemas pela Cândido Mendes
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...lcleon.leonardo@gmail.com
