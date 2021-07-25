@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Leonardo Lobo(Lio)
-- 👀 I’m interested in HTML ,CSS ,React ,Node ,PHP ,C# ,Javascript, Python e Assembly.  
-- 🌱 I’m currently l cursando Análise de sistemas pela Cândido Mendes
-- 💞️ I’m looking to collaborate on ...
+<>Studying systems analysis by Universidade Cândido Mendes - Brazil </>
+<>Technology student HTML ,CSS ,React ,Node ,PHP ,C# ,Java, Javascript, Python e Assembly.</> 
+ 
+
 - 📫 How to reach me ...lcleon.leonardo@gmail.com
 
 <!---
